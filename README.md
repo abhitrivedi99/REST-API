@@ -14,6 +14,6 @@ In `.env` file you have to use your own mongoose link which you can get from htt
 # Install dependencies
 npm install
 
-# Serve on localhost:5000
+# Serve on localhost:3000
 npm start
 ```
